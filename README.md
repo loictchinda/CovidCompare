@@ -35,7 +35,7 @@ Pour lancer le projet localement sur votre machine :
 
 1.  **Cloner le dépôt :**
     ```bash
-    git clone https://github.com/Cornelliah/CovidCompare.git
+    git clone https://github.com/loictchinda/CovidCompare.git
     cd CovidCompare
     ```
 
@@ -53,13 +53,6 @@ Pour lancer le projet localement sur votre machine :
     Ouvrez votre navigateur sur `http://localhost:5173` (ou le port indiqué dans votre terminal).
 
 ---
-
-5.  ## Nom et prenom des membres :
-
-    * **Tchinda loic**
-    * **Horiane Hounkanrin**
-    * **Yvan Seukou**
-    * **ANANI KOFFI JEAN-YVES**
 
 ## 📂 Structure du Projet
 
